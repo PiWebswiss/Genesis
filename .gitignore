@@ -1,0 +1,6 @@
+dataset/*
+save-model.h5
+js-model
+img-remove
+web-scrabing.ipynb
+test-and-distribute-model.ipynb
