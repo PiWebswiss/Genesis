@@ -1,4 +1,4 @@
-# AI Model to classify surgical instruments
+# MedAI is model to classify surgical instruments
 
 ## Introduction 
 
