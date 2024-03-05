@@ -1,11 +1,9 @@
-
 # MedAI: Surgical Instrument Recognition with AI
 
 ## Project Description
 
-MedAI aims to automate surgical instrument recognition using a camera and an AI model. This will improve operating room efficiency, reduce errors, and enhance patient safety.
+MedAI aims to automate surgical instrument recognition using a camera and an AI model. 
 
-You can view a demonstration of the model on my website here. [Try it](https://piweb.ch/recognise%20surgical%20instruments/)
 
 ## Objectives
 
@@ -32,7 +30,6 @@ Project Stages
 
 ## Data Collection:
 [] ``dataset_builder.py``: (Code to gather, process, and organize images)
-
 [] Instruments to be recognized should be listed.
 [] Collected the from videos, online sources, etc.
 [] Cleaned and organized the dataset.
@@ -65,16 +62,4 @@ PiWebswiss
 
 [Email Address]
 pi.web@piweb.ch
-
-
-
-
-
-
-
-
-Beta Testing:
-
-
-
 
