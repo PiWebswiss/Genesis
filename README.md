@@ -48,11 +48,10 @@ __The Project is still in R&D phase.__
 
 
 ### Beta Testing
-- [ ] ``production.py``: (Code for applying the model to new images)
-Production Preparation
+- [ ] ``webTest.py``: (testing the model using a web app) 
 - [ ] The model should be configured for real-world testing using a web application.
     - [ ] Overall model accuracy should be evaluated.
-    - [ ] Overall model ability to identify instrument correctly should be evaluated.
+    - [ ] Overall model ability to identify instruments correctly should be evaluated.
 - [ ] It should be determined whatever the model is ready for the production phase (alpha test).
 
 ## Production Preparation
