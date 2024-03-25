@@ -37,7 +37,7 @@ Project Stages
 
 
 ## Model Training
-- [ ] model_trainer.py: (Code to define, train, and evaluate your model)
+- [ ] ``model_trainer.py``: (Code to define, train, and evaluate your model)
 - [ ] The best configuration (ML, DL, LLM, etc.) should be chosen.
 - [ ] The model should be configured and trained.
 - [ ] The model should be evaluated on unseen data.
@@ -46,12 +46,11 @@ Project Stages
 
 
 ### Beta Testing
-- [ ] inference.py: (Code for applying the model to new images)
+- [ ] ``inference.py``: (Code for applying the model to new images)
 Production Preparation
 - [ ] The model should be configured for real-world testing using a web application.
-- [ ] The model's accuracy should be evaluated.
-- [ ] The model's ability to identify instruments should be determined.
-- [ ] The model's real-world accuracy percentage should be determined.
+    - [ ] The model accuracy should be evaluated.
+    - [ ] The model ability to identify instruments correctly.
 - [ ] It should be determined whether the model is ready for the production phase (alpha test).
 
 ## Production Preparation
