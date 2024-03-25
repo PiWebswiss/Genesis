@@ -13,18 +13,20 @@ MedAI aims to automate surgical instrument recognition using a camera and an AI 
 
 
 ## Project Benefits
+- Automate tasks
+- Improved efficiency 
+- Reduced human errors
 
-Improved efficiency in the operating room
-Reduced human errors
-Enhanced patient Safety
-Project Limitations
+## Project Limitations
 
-Achieving 100% accuracy is challenging.
-The model's initial capabilities will be limited to instruments in the training dataset.
-Performance may be affected by image quality, lighting, and irrelevant images.
-The model may need updates for new instruments or different environments.
-Project Stages
+- Achieving 100% accuracy is challenging.
+- The model's initial capabilities will be limited to instruments in the training dataset.
+- Performance may be affected by image quality, lighting, and irrelevant images.
+- The model may need updates for new instruments or different environments.
 
+
+## Project Stages
+__The Project is still in R&D phase.__
 
 ### To Do list
 
@@ -37,7 +39,7 @@ Project Stages
 
 
 ## Model Training
-- [ ] ``model_trainer.py``: (Code to define, train, and evaluate your model)
+- [ ] ``train_model.py``: (Code to define, train, and evaluate your model)
 - [ ] The best configuration (ML, DL, LLM, etc.) should be chosen.
 - [ ] The model should be configured and trained.
 - [ ] The model should be evaluated on unseen data.
@@ -46,12 +48,12 @@ Project Stages
 
 
 ### Beta Testing
-- [ ] ``inference.py``: (Code for applying the model to new images)
+- [ ] ``production.py``: (Code for applying the model to new images)
 Production Preparation
 - [ ] The model should be configured for real-world testing using a web application.
-    - [ ] The model accuracy should be evaluated.
-    - [ ] The model ability to identify instruments correctly.
-- [ ] It should be determined whether the model is ready for the production phase (alpha test).
+    - [ ] Overall model accuracy should be evaluated.
+    - [ ] Overall model ability to identify instrument correctly should be evaluated.
+- [ ] It should be determined whatever the model is ready for the production phase (alpha test).
 
 ## Production Preparation
 - [ ] install the model for production 
