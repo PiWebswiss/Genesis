@@ -17,6 +17,7 @@ MedAI aims to automate surgical instrument recognition using a camera and an AI 
 - Improved efficiency 
 - Reduced human errors
 
+
 ## Project Limitations
 
 - Achieving 100% accuracy is challenging.
@@ -26,7 +27,10 @@ MedAI aims to automate surgical instrument recognition using a camera and an AI 
 
 
 ## Project Stages
-__The Project is still in R&D phase.__
+I made a demo where you can use the model to recognize 5 different surgical instruments.[here](https://piweb.ch/recognise-surgical-instruments/).
+I've trained several models in TensorFlow, PyTorch, and YOLOv5. For more info, check my code 
+
+<!-- __The Project is still in R&D phase.__
 
 ### To Do list
 
@@ -57,4 +61,4 @@ __The Project is still in R&D phase.__
 ## Production Preparation
 - [ ] install the model for production 
 
-### Project Lead Name : PiWebswiss
+### Project Lead Name : PiWebswiss -->
