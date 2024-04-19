@@ -27,8 +27,8 @@ MedAI aims to automate surgical instrument recognition using a camera and an AI 
 
 
 ## Project Stages
-I made a demo where you can use the model to recognize 5 different surgical instruments.[here](https://piweb.ch/recognise-surgical-instruments/).
-I've trained several models in TensorFlow, PyTorch, and YOLOv5. For more info, check my code 
+- I made a demo where you can use the model to recognize 5 different surgical instruments[here](https://piweb.ch/recognise-surgical-instruments/).
+- I've trained several models in TensorFlow, PyTorch, and YOLOv5. For more info, check my code 
 
 <!-- __The Project is still in R&D phase.__
 
